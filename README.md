@@ -13,4 +13,4 @@
 <img src="https://skillicons.dev/icons?i=ts,java" />
 
 ## Socials
-[![GMAIL](https://skillicons.dev/icons?i=gmail)](viniciusavila4080@gmail.com)
+[![GMAIL](https://skillicons.dev/icons?i=gmail)](mailto:viniciusavila4080@gmail.com)
