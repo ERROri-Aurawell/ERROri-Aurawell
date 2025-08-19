@@ -6,11 +6,11 @@
 </div>
 
 ## Ferramentas 
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,vscode,visualstudio,github,mysql" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,vscode,visualstudio,github,mysql" />
 
 
 ## Estudando
-<img src="https://skillicons.dev/icons?i=java,cs,cpp,unity" />
+<img src="https://skillicons.dev/icons?i=java,cs,lua,unity" />
 
 ## Socials
 [![GMAIL](https://skillicons.dev/icons?i=gmail)](mailto:viniciusavila4080@gmail.com)
