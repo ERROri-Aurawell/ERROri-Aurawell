@@ -10,7 +10,7 @@
 
 
 ## Estudando
-<img src="https://skillicons.dev/icons?i=java,cs,lua,unity" />
+<img src="https://skillicons.dev/icons?i=rust" />
 
 ## Socials
 [![GMAIL](https://skillicons.dev/icons?i=gmail)](mailto:viniciusavila4080@gmail.com)
