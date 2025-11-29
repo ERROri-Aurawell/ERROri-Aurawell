@@ -6,7 +6,7 @@
 </div>
 
 ## Ferramentas 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,vscode,visualstudio,github,mysql" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,vscode,github,mysql" />
 
 
 ## Estudando
