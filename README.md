@@ -7,7 +7,7 @@
 <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,vscode,github,mysql" />
 
 
-## Estudando (em ordem)
+## Estudando
 <img src="https://skillicons.dev/icons?i=rust,cs,c" />
 
 ## Socials
