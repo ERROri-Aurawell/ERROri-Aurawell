@@ -8,7 +8,7 @@
 
 
 ## Estudando
-<img src="https://skillicons.dev/icons?i=rust,cs,c" />
+<img src="https://skillicons.dev/icons?i=rust,java" />
 
 ## Socials
 [![GMAIL](https://skillicons.dev/icons?i=gmail)](mailto:viniciusavila4080@gmail.com)
